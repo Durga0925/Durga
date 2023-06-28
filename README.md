@@ -1,1 +1,1 @@
-# Durga
+# Inflammable gas detecter
